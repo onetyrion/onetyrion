@@ -69,7 +69,7 @@
 
 | Estadísticas Generales | Lenguajes Más Usados |
 |---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onetyrion&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onetyrion&layout=compact&theme=tokyonight) |
+| ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=onetyrion&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800) | ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=onetyrion&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800) |
 
 ---
 
